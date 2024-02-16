@@ -42,7 +42,7 @@ entityMappings:
   - entityType: DNS 
     fieldMappings: 
       - identifier: DomainName 
-        columnName: DnsQuery 
+        columnName: Domain 
   - entityType: IP 
     fieldMappings: 
       - identifier: Address 
